@@ -1,0 +1,617 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Mia Lounge Chair",
+      "price":  1574,
+      "sale": 1260,
+      "materials_colors": [1, 2, 3],
+      "type": "Lounge & Armchairs",
+      "room": "Living Room",
+      "rating": 5,
+      "no_rating": 2,
+      "sold": 23,
+      "quantity": 100,
+      "create_date": "2022-08-1",
+      "default_image": "Mia-Lounge-Chair_Alesund_1.jpg",
+      "product_images":{
+        "Alesund": ["Mia-Lounge-Chair_Alesund_1.jpg", "Mia-Lounge-Chair_Alesund_2.jpg", "Mia-Lounge-Chair_Alesund_3.jpg", "Mia-Lounge-Chair_Alesund_4.jpg", "googleimage_mialoungechairpla.jpg"],
+        "Moonstone": ["Mia-Lounge-Chair_Moonstone_1.jpg", "Mia-Lounge-Chair_Moonstone_2.jpg", "Mia-Lounge-Chair_Moonstone_3.jpg", "Mia-Lounge-Chair_Moonstone_4.jpg", "googleimage_mialoungechairpla.jpg"],
+        "Solstice": ["Mia-Lounge-Chair_Velvet_Solstice_1.jpg", "Mia-Lounge-Chair_Velvet_Solstice_2.jpg", "Mia-Lounge-Chair_Velvet_Solstice_3.jpg", "Mia-Lounge-Chair_Velvet_Solstice_4.jpg", "googleimage_mialoungechairpla.jpg"]
+      },
+      "dimension_image": "Milo-Lounge-Chair_Dimensions.png",
+      "overview": "Discover a sense of sophisticated luxury with the sculptural shape of the Mia Lounge Chair - Swivel. A fresh take on the traditional lounge chair, the softly upholstered curves, and the intricate details of Mia creates a grandiose feel of modern elegance in any space.",
+      "details": ["Solid powder coated brass metal legs","High density foam seat","Black rubber pad underneath","360° Swivel base"]
+    },
+    {
+      "id": 2,
+      "name": "Javert Lounge Chair",
+      "price": 1249,
+      "sale": null,
+      "materials_colors": [6, 4, 7],
+      "type": "Lounge & Armchairs",
+      "room": "Living Room",
+      "rating": 0,
+      "no_rating": 0,
+      "sold": 5,
+      "quantity": 100,
+      "create_date": "2022-08-1",
+      "default_image": "Javert_Lounge_Chair_AshWood_frame_PlushVelvet_Black_Seat_1.jpg",
+      "product_images":{
+        "Black": ["Javert_Lounge_Chair_AshWood_frame_PlushVelvet_Black_Seat_1.jpg", "Javert_Lounge_Chair_AshWood_frame_PlushVelvet_Black_Seat_2.jpg", "Javert_Lounge_Chair_AshWood_frame_PlushVelvet_Black_Seat_3.jpg","Javert_Lounge_Chair_AshWood_frame_PlushVelvet_Black_Seat_4.jpg"],
+        "Pearl": ["Javert_Lounge_Chair_AshWood_frame_Chatou_Boucle_Pearl_Seat_1.jpg","Javert_Lounge_Chair_AshWood_frame_Chatou_Boucle_Pearl_Seat_2.jpg","Javert_Lounge_Chair_AshWood_frame_Chatou_Boucle_Pearl_Seat_3.jpg","Javert_Lounge_Chair_AshWood_frame_Chatou_Boucle_Pearl_Seat_4.jpg"],
+        "Esme": ["Javert_Lounge_Chair_AshWood_frame_Esme_Linen_Seat_1.jpg","Javert_Lounge_Chair_AshWood_frame_Esme_Linen_Seat_2.jpg","Javert_Lounge_Chair_AshWood_frame_Esme_Linen_Seat_3.jpg","Javert_Lounge_Chair_AshWood_frame_Esme_Linen_Seat_4.jpg"]
+      },
+      "dimension_image": "Javert_Lounge_Chair_Dimensions.jpg",
+      "overview": "Set in the grandeur of simplicity, the Javert Lounge Chair will encapsulate you in an aura of refined sophistication. Subtle yet elegant, the geometric, modern silhouette and sumptuous, sustainable materials of the Javert collection represent a timeless balance.",
+      "details": ["Available in solid ash wood with ebony finish","Premium upholstery","Includes footpads protectors"]
+    },
+    {
+      "id": 3,
+      "name": "Egg Chair",
+      "price":  1824,
+      "sale": 1280,
+      "materials_colors": [5],
+      "type": "Lounge & Armchairs",
+      "room": "Living Room",
+      "rating": 4.8,
+      "no_rating": 80,
+      "sold": 196,
+      "quantity": 100,
+      "create_date": "2022-08-1",
+      "default_image": "Egg_Chair_Chatou-Boucle_Caviar_1_0.jpg",
+      "product_images":{
+        "Caviar": ["Egg_Chair_Chatou-Boucle_Caviar_1_0.jpg","Egg_Chair_Chatou-Boucle_Caviar_2_0.jpg","Egg_Chair_Chatou-Boucle_Caviar_3_0.jpg","Egg_Chair_Chatou-Boucle_Caviar_4_0.jpg"]
+      },
+      "dimension_image": "Egg_Chair_Dimensions.jpg",
+      "overview": "The famed Egg Chair is an undeniably iconic piece inspired by modern Danish design. Its fluid lines create a sense of movement that could only be considered as part of the Organic Functionalism movement of the mid-century era. There is no unnecessary adornment so the chair is stunning in its simplicty of form. Durably cushioned, its curving structure conforms to the body. It also tilts and swivels 360°, making it even more welcoming for a home or an office environment.",
+      "details": ["Premium upholstery","Hand-stitched using braided lockstitch technology","Curvature-true fiberglass shell.High density cushioning","PU-injected foam wrapped in synthetic Dacron silk","360 degree swivel.Polished aluminum base resistant to chipping and flaking"]
+    },
+    {
+      "id": 4,
+      "name": "Diane Sofa",
+      "price":  2499,
+      "sale": null,
+      "materials_colors": [4, 8],
+      "type": "Sofas",
+      "room": "Living Room",
+      "rating": 4.9,
+      "no_rating": 3,
+      "sold": 12,
+      "quantity": 100,
+      "create_date": "2022-08-3",
+      "default_image": "Diane_Sofa_Chatou_Bouce_Pearl_1.jpg",
+      "product_images":{
+        "Pearl": ["Diane_Sofa_Chatou_Bouce_Pearl_1.jpg","Diane_Sofa_Chatou_Bouce_Pearl_2.jpg","Diane_Sofa_Chatou_Bouce_Pearl_3.jpg","Diane_Sofa_Chatou_Bouce_Pearl_4.jpg"],
+        "Glacier Grey": ["Diane_Sofa_GlacierGrey_1.jpg", "Diane_Sofa_GlacierGrey_2.jpg","Diane_Sofa_GlacierGrey_3.jpg","Diane_Sofa_GlacierGrey_4.jpg"]
+      },
+      "dimension_image": "Diane_Sofa_Dimensions.jpg",
+      "overview": "Fall back into the divine atmosphere of the Diane Sofa. Captivating with its sublime, modern silhouette and opulently lush, long-lasting materials, the Diane creates a sense of grace in any space.",
+      "details": ["Kiln-dried hardwood frame with dowelled joints and reinforced corner blocks","Soft-padded frame made with polyurethane foam wrapped in polyester fiber","8 gauge sinuous spring construction","3 layer high-density foam cushioning.Includes 4 black foot protectors","Includes two throw pillows.Soft Feel.Light assembly required"]
+    },
+    {
+      "id": 5,
+      "name": "Tanner 3 Seater Sofa",
+      "price":  3749,
+      "sale": null,
+      "materials_colors": [4, 3],
+      "type": "Sofas",
+      "room": "Living Room",
+      "rating": 0,
+      "no_rating": 0,
+      "sold": 5,
+      "quantity": 100,
+      "create_date": "2022-08-2",
+      "default_image": "Tanner_3seater_Sofa_Chatou_Boucle_Pearl_1.jpg",
+      "product_images":{
+        "Pearl": ["Tanner_3seater_Sofa_Chatou_Boucle_Pearl_1.jpg","Tanner_3seater_Sofa_Chatou_Boucle_Pearl_2.jpg","Tanner_3seater_Sofa_Chatou_Boucle_Pearl_3.jpg","Tanner_3seater_Sofa_Chatou_Boucle_Pearl_4.jpg"],
+        "Solstice": ["Tanner_3Seater_Sofa_Plush_Velvet_Solstice_1.jpg","Tanner_3Seater_Sofa_Plush_Velvet_Solstice_2.jpg","Tanner_3Seater_Sofa_Plush_Velvet_Solstice_3.jpg","Tanner_3Seater_Sofa_Plush_Velvet_Solstice_4.jpg"]
+      },
+      "dimension_image": "Tanner 3 Seater Sofa.jpg",
+      "overview": "Fall back into the luxurious and supple feel of the Tanner 3 Seater Sofa. Meticulously crafted, the refined tufting and sumptuous cushioning of the Tanner create an inviting, sink-in feel, making it the ultimate relaxation experience. Enjoy our preset configurations or customize your own design by purchasing pieces separately.",
+      "details": ["3-layer high-density foam cushioning","Tufted detail.Includes 3 armless pieces","Available as preset or custom modular configurations","Soft Feel (Learn more about our sofa firmness here.)","Includes anti-slip pads.Black legs included","Modules can be used with legs or without","Light assembly is required","Only legs are detached for your convenience","Connectors not included/compatible for this collection"]
+    },
+    {
+      "id": 6,
+      "name": "Evelyn Coffee Table - Marble - Rectangular",
+      "price":  1749,
+      "sale": 1574,
+      "materials_colors": [9, 10],
+      "type": "Coffee Tables",
+      "room": "Living Room",
+      "rating": 5,
+      "no_rating": 30,
+      "sold": 86,
+      "quantity": 100,
+      "create_date": "2022-08-2",
+      "default_image": "Evelyn_Coffee_Table_Rectangle_White_Carrara_BlackPC_1.jpg",
+      "product_images":{
+        "White Carrara Marble": ["Evelyn_Coffee_Table_Rectangle_White_Carrara_BlackPC_1.jpg","Evelyn_Coffee_Table_Rectangle_White_Carrara_BlackPC_2.jpg","Evelyn_Coffee_Table_Rectangle_White_Carrara_BlackPC_3.jpg","Evelyn_Coffee_Table_Rectangle_White_Carrara_BlackPC_4.jpg","Evelyn_Coffee_Table_Rectangle_White_Carrara_BlackPC_5.jpg"],
+        "Black Marble": ["Evelyn_Coffee_Table_Rectangle_Black_Carrara_BlackPC_1.jpg","Evelyn_Coffee_Table_Rectangle_Black_Carrara_BlackPC_2.jpg","Evelyn_Coffee_Table_Rectangle_Black_Carrara_BlackPC_3.jpg","Evelyn_Coffee_Table_Rectangle_Black_Carrara_BlackPC_4.jpg","Evelyn_Coffee_Table_Rectangle_Black_Carrara_BlackPC_5.jpg"]
+      },
+      "dimension_image": "Evelyn_CoffeeTable_Rectangular_Dimensions.png",
+      "overview": "Gorgeous marble and a handsome metal base are like the perfect homecoming pair. Made with your choice of durable Carrara or Black marble, the Evelyn Coffee Table is an immediately modern classic, simply designed and ready to bring home.",
+      "details": ["Solid marble top polished and finished with natural wax","Choose from black or painted brass metal legs","This product will be shipped in a wooden crate, tools are recommended for unboxing"]
+    },
+    {
+      "id": 7,
+      "name": "Galen Coffee Table",
+      "price":  1249,
+      "sale": 1124,
+      "materials_colors": [11, 12],
+      "type": "Coffee Tables",
+      "room": "Living Room",
+      "rating": 4.9,
+      "no_rating": 6,
+      "sold": 21,
+      "quantity": 100,
+      "create_date": "2022-08-10",
+      "default_image": "Galen_Coffee_Table_Slate_Concrete_1.jpg",
+      "product_images":{
+        "Slate Concrete": ["Galen_Coffee_Table_Slate_Concrete_1.jpg","Galen_Coffee_Table_Slate_Concrete_2.jpg","Galen_Coffee_Table_Slate_Concrete_3.jpg"],
+        "Black Concrete": ["Galen_Coffee_Table_Black_Concrete_1.jpg","Galen_Coffee_Table_Black_Concrete_2.jpg","Galen_Coffee_Table_Black_Concrete_3.jpg"]
+      },
+      "dimension_image": "Galen_Coffee_Table_Dimensions.png",
+      "overview": "The modern, curved form and minute details unite to bring the Galen Coffee Table to life. Distinguished by its unique and timeless elegance the breathtaking essence of the Galen creates a sophisticated ambiance in any space, indoor or outdoor.",
+      "details": [
+        "Natural glass fiber reinforced concrete",
+        "Choice of white, grey, or black concrete",
+        "Fully finished and sealed",
+        "Waterproof and UV tested",
+        "Curved lip feature on top",
+        "Suitable for indoor or outdoor use",
+        "This product will be shipped in a wooden crate, tools are recommended for unboxing"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Winston Media Console",
+      "price":  1561,
+      "sale": null,
+      "materials_colors": [13],
+      "type": "TV Stands",
+      "room": "Living Room",
+      "rating": 5,
+      "no_rating": 208,
+      "sold": 626,
+      "quantity": 100,
+      "create_date": "2022-08-2",
+      "default_image": "Winston_Media_Console_Front.jpg",
+      "product_images":{
+        "Walnut Veneer": ["Winston_Media_Console_Front.jpg", "Winston_Media_Console_Angle.jpg", "Winston_Media_Console_Angle_2_Open.jpg", "Winston_Media_Console_Angle_2_Closed.jpg", "Winston_media_console.jpg"]
+      },
+      "dimension_image": "Winston media console dimensions.png",
+      "overview": "The Winston Media Console is an abstract presentation of the rule of thirds. Strangely but pleasantly balanced, this vibrant piece becomes a focal point with multiple storage opportunities. Aesthetic industrial lines meet crafted concave edges for an overall elegant and contemporary facade.",
+      "details": [
+        "High gloss white lacquer",
+        "Smooth American walnut veneer",
+        "California Phase 2 Compliant MDF",
+        "Generously beveled edges",
+        "Italian-engineered soft-close drawers with grey aluminum handles",
+        "Powder coated grey solid stainless steel base",
+        "Light assembly required"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mikkel TV Stand",
+      "price": 1124,
+      "sale": null,
+      "materials_colors": [13],
+      "type": "TV Stands",
+      "room": "Living Room",
+      "rating": 5,
+      "no_rating": 80,
+      "sold": 328,
+      "quantity": 100,
+      "create_date": "2022-03-10",
+      "default_image": "Mikkel_TV_Stand_Walnut_1.jpg",
+      "product_images":{
+        "Walnut Veneer": ["Mikkel_TV_Stand_Walnut_1.jpg","Mikkel_TV_Stand_Walnut_2.jpg","Mikkel_TV_Stand_Walnut_3.jpg","Mikkel_TV_Stand_Walnut_4.jpg","Mikkel_TV_Stand_Walnut_5.jpg"]
+      },
+      "dimension_image": "Mikkel TV stand dimensions.jpg",
+      "overview": "Conceal your cords and consoles with confidence in the Mikkel TV Stand. Three spacious drawers accommodate your storage needs effortlessly, while the modern form creates the perfect base for a wall-mounted or standing TV. This item utilizes a durable, solid Ash wood base and white lacquer finish for a strong foundation and sophisticated finish. Built for daily use, this item is a space efficient and affordable investment piece that can complement any home.",
+      "details": [
+        "Choice of elm wood or walnut veneer",
+        "White lacquer finish ",
+        "California Phase 2 Compliant MDF",
+        "Italian-engineered soft-close drawers",
+        "Interior dimensions: Drawer A: 20.5 x 12.75 x 5.5; Drawer B: 20.75 x 12.75 x 5.5; Drawer C: 20.5 x 12.75 x 5.5",
+        "Clearance from floor: 3.25",
+        "Light assembly required"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Liza Pedestal",
+      "price": 1499,
+      "sale": null,
+      "materials_colors": [10,  9],
+      "type": "Side Tables",
+      "room": "Living Room",
+      "rating": 4.6,
+      "no_rating": 2,
+      "sold": 9,
+      "quantity": 100,
+      "create_date": "2022-05-10",
+      "default_image": "Liza_Pedesta_Black-Marble_1.jpg",
+      "product_images":{
+        "Black Marble": ["Liza_Pedesta_Black-Marble_1.jpg","Liza_Pedesta_Black-Marble_2.jpg","Liza_Pedesta_Black-Marble_3.jpg","Liza_Pedesta_Black-Marble_4.jpg","Liza_Pedesta_Black-Marble_5.jpg"],
+        "White Carrara Marble": ["Liza_Pedesta_White-Carrara-Marble_1_0.jpg","Liza_Pedesta_White-Carrara-Marble_2_0.jpg","Liza_Pedesta_White-Carrara-Marble_3_0.jpg","Liza_Pedesta_White-Carrara-Marble_4_0.jpg","Liza_Pedesta_White-Carrara-Marble_5_0.jpg"]
+      },
+      "dimension_image": "Liza_Pedestal_Dimensions.png",
+      "overview": "The Liza Pedestal brings form and function to the modern home. With its clean and simple, architectural design, the Liza anchors any space. Made of beautifully polished marble, the Liza creates a feel of refined elegance in any setting.",
+      "details": [
+        "Polished and finished with natural wax",
+        "Includes foot pads",
+        "Light assembly required",
+        "This product will be shipped in a wooden crate, tools are recommended for unboxing"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Tulip Side Table",
+      "price": 324,
+      "sale": 200,
+      "materials_colors": [],
+      "type": "Side Tables",
+      "room": "Living Room",
+      "rating": 5,
+      "no_rating": 187,
+      "sold": 685,
+      "quantity": 100,
+      "create_date": "2022-05-10",
+      "default_image": "Tulip_Side_Table_Oak_1.jpg",
+      "product_images":{
+        "": ["Tulip_Side_Table_Oak_1.jpg","Tulip_Side_Table_Oak_2.jpg","Tulip_Side_Table_Oak_3.jpg","Tulip_Side_Table_Oak_4.jpg","Tulip_Side_Table_Oak_5.jpg"]
+      },
+      "dimension_image": "Tulip Side Table Dimensions.png",
+      "overview": "The Tulip Table series is a premium reproduction line inspired by Finnish and American mid-century architecture, a period vastly characterized by the simplification of everyday living. The unique single pedestal base is made from strong, durable cast aluminum to support your choice of table top whilst eliminating the unnecessary clutter of legs underneath.",
+      "details": [
+        "Choice of marble, wood veneer, or painted lacquer surface",
+        "Marble tops are finished with natural sealant",
+        "Beveled underside edge",
+        "Cast aluminum base with gloss finish",
+        "Base has 5-step powder coat resistant to chipping",
+        "Assembly is required",
+        "Diameter may vary by approximately 0.5",
+        "Natural markings may vary",
+        "This product will be shipped in a wooden crate, tools are recommended for unboxing"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Ophelia Bed",
+      "price": 2037,
+      "sale": null,
+      "materials_colors": [1, 7, 4],
+      "orientation": null,
+      "size": [{"name": "Full", "price": 0}, {"name": "Queen", "price": 125}, {"name": "King", "price": 250}, {"name": "Cal King", "price": 250}],
+      "type": "Beds",
+      "room": "Bedroom",
+      "rating": 5,
+      "no_rating": 643,
+      "sold": 2251,
+      "quantity": 100,
+      "create_date": "2022-04-10",
+      "default_image": "Ophelia_Bed_King_Alesund_1.jpg",
+      "product_images":{
+        "Alesund": ["Ophelia_Bed_King_Alesund_1.jpg","Ophelia_Bed_King_Alesund_2.jpg","Ophelia_Bed_King_Alesund_3.jpg","Ophelia_Bed_King_Alesund_4.jpg","Ophelia_Bed_King_Alesund_5.jpg"],
+        "Esme": ["Ophelia-Bed_Leuven-Linen_Esme_1.jpg","Ophelia-Bed_Leuven-Linen_Esme_2.jpg","Ophelia-Bed_Leuven-Linen_Esme_3.jpg","Ophelia-Bed_Leuven-Linen_Esme_4.jpg","Ophelia-Bed_Leuven-Linen_Esme_5.jpg"],
+        "Pearl": ["Ophelia-Bed_Chatou-Boucle_Pearl-King_1.jpg","Ophelia-Bed_Chatou-Boucle_Pearl-King_2.jpg","Ophelia-Bed_Chatou-Boucle_Pearl-King_3.jpg","Ophelia-Bed_Chatou-Boucle_Pearl-King_4.jpg","Ophelia-Bed_Chatou-Boucle_Pearl-King_5.jpg"]
+      },
+      "dimension_image": "Ophelia_Beds_Dimensions.png",
+      "overview": "Everything from the smooth upholstery, plush cushioning, and rounded edges exude elegance in this modern contemporary bed frame. Fully upholstered with a neat wrap-around tuck, Ophelia is a simple luxury piece ready to take home. With a retreat, this cozy, don't blame us if it's harder to get out of bed in the morning.",
+      "details": [
+        "Pine wood headboard",
+        "California Phase 2 Compliant MDF",
+        "Standard quality framing is secured with strong metal brackets",
+        "European flexible slat system included",
+        "Upholstered in durable modern fabric",
+        "Full frame wrapped in triple layer multi-density foam cushioning",
+        "Approximately 3 inch mattress inset",
+        "Assembly required"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Milo Sleeper Sectional",
+      "price": 5249,
+      "sale": null,
+      "materials_colors": [1, 6],
+      "orientation": ["Left-Hand-Facing", "Right-Hand-Facing"],
+      "size": null,
+      "type": "Beds",
+      "room": "Bedroom",
+      "rating": 5,
+      "no_rating": 3,
+      "sold": 23,
+      "quantity": 100,
+      "create_date": "2022-03-10",
+      "default_image": "Milo-Sleeper-Sectional_Alesund_1.jpg",
+      "product_images":{
+        "Alesund": ["Milo-Sleeper-Sectional_Alesund_1.jpg","Milo-Sleeper-Sectional_Alesund_2.jpg","Milo-Sleeper-Sectional_Alesund_3.jpg","Milo-Sleeper-Sectional_Alesund_4.jpg","Milo-Sleeper-Sectional_Alesund_5.jpg"],
+        "Black": ["Milo-Sleeper-Sectional_Black-Velvet_1.jpg","Milo-Sleeper-Sectional_Black-Velvet_2.jpg","Milo-Sleeper-Sectional_Black-Velvet_3.jpg","Milo-Sleeper-Sectional_Black-Velvet_4.jpg","Milo-Sleeper-Sectional_Black-Velvet_5.jpg"]
+      },
+      "dimension_image": "Milo-Sleeper-Sectional_Dimensions.png",
+      "overview": "The sleek and flat profile of the Milo Sleeper Sectional marries sophisticated style with casual comfort. Milo's subtle curves of the padded armrest add visual elegance while delivering plush and stable support for the spacious seating. Milo features a modern design that can be easily converted into a spacious bed, perfect for when you have guests over. Much like the grandeur of Italian design, Milo is especially suited for large luxury spaces as the design of the Milo is formed with more width than the average sofa, providing an overall grander feel for your home.",
+      "details": [
+        "Kiln-dried hardwood frame w/ doweled joints & reinforced corner blocks",
+        "Soft-padded frame made with polyurethane foam wrapped in polyester fiber",
+        "3-layer high-density foam cushioning topped w/ premium 100% goose feathers",
+        "8 gauge sinuous spring construction",
+        "Square throw pillows not included, sold separately here",
+        "Round, low profile solid stainless steel legs",
+        "Light assembly required. Only legs are detached for your convenience",
+        "Connectors not included/compatible for this collection"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Vienna Dresser",
+      "price": 2124,
+      "sale": null,
+      "materials_colors": [],
+      "orientation": null,
+      "size": null,
+      "type": "Dressers",
+      "room": "Bedroom",
+      "rating": 0,
+      "no_rating": 0,
+      "sold": 5,
+      "quantity": 100,
+      "create_date": "2022-05-10",
+      "default_image": "Vienna_Wide-Dresser_Alabaster-Top-1.jpg",
+      "product_images":{
+        "": ["Vienna_Wide-Dresser_Alabaster-Top-1.jpg","Vienna_Wide-Dresser_Alabaster-Top-2.jpg","Vienna_Wide-Dresser_Alabaster-Top-3.jpg","Vienna_Wide-Dresser_Alabaster-Top-4.jpg","Vienna_Wide-Dresser_Alabaster-Top-5.jpg"]
+      },
+      "dimension_image": "Vienna_Wide-Dresser_Dimensions.jpg",
+      "overview": "Echoing principles from the postmodern era, the Vienna Wide Dresser stands out in any bedroom. Enriched with a sumptuous alabaster finish that cascades down like an abundant waterfall; the Vienna is the perfect contemporary dresser that fits any design style. Pair with the Vienna Nightstand to complete your bedroom space.",
+      "details": [
+        "Alabaster matte lacquer",
+        "Solid black oak inset detailing",
+        "Finger pull drawers",
+        "Italian-engineered soft-close drawers",
+        "No assembly required",
+        "This product will be shipped in a wooden crate, tools are recommended for unboxing"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Georgio Wide Dresser",
+      "price": 2249,
+      "sale": null,
+      "materials_colors": [],
+      "orientation": null,
+      "size": null,
+      "type": "Dressers",
+      "room": "Bedroom",
+      "rating": 0,
+      "no_rating": 0,
+      "sold": 8,
+      "quantity": 100,
+      "create_date": "2022-04-10",
+      "default_image": "Georgio_Wide_Dresser_Walnut_stained_1.jpg",
+      "product_images":{
+        "": ["Georgio_Wide_Dresser_Walnut_stained_1.jpg","Georgio_Wide_Dresser_Walnut_stained_2.jpg","Georgio_Wide_Dresser_Walnut_stained_3.jpg","Georgio_Wide_Dresser_Walnut_stained_4.jpg","Georgio_Wide_Dresser_Walnut_stained_5.jpg"]
+      },
+      "dimension_image": "Georgio_Wide_Dresser_Dimensions.jpg",
+      "overview": "Georgio is an unparalleled contemporary dresser, that captures the pure essence of modern luxury. Minute brass details and judiciously applied materials, accentuate the linear lines of the rich walnut slat detail and ebony drawer panels. The Georgio Wide Dresser is the perfect foundation for any bedroom. Complete your bedroom with the Georgio Bed and Georgio Nightstand.",
+      "details": [
+        "Smooth American walnut veneer ",
+        "Slat detailing",
+        "Black oak veneer front drawer panels",
+        "California Phase 2 Compliant MDF",
+        "Italian-engineered soft-close drawers",
+        "Brushed brass handle and base",
+        "Includes footpad protectors",
+        "No assembly required"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Mila Mirror",
+      "price": 374,
+      "sale": null,
+      "materials_colors": [14, 15],
+      "orientation": null,
+      "size": null,
+      "type": "Mirrors",
+      "room": "Bedroom",
+      "rating": 5,
+      "no_rating": 13,
+      "sold": 42,
+      "quantity": 100,
+      "create_date": "2022-04-10",
+      "default_image": "Mila_Mirror_1.jpg",
+      "product_images":{
+        "Black Metal": ["Mila_Mirror_1.jpg","Mila_Mirror_2.jpg","Mila_Mirror_3.jpg","Mila_Mirror_4.jpg","Mila_Mirror_5.jpg"],
+        "Brass": ["Mila_Mirror_Brass_Frame_1.jpg","Mila_Mirror_Brass_Frame_2.jpg","Mila_Mirror_Brass_Frame_3.jpg","Mila_Mirror_Brass_Frame_4.jpg","Mila_Mirror_Brass_Frame_5.jpg"]
+      },
+      "dimension_image": "Mirra_Mirror_Dimensions.jpg",
+      "overview": "Bordered with a delicate frame of smooth metal, the Mila Mirror is an understated essential. Brightening any room with its minimalist and sophisticated silhouette, whether it’s hung over the vanity, bathroom sink or even in the living room, the Mila provides reflection whenever needed.",
+      "details": [
+        "Mirrored glass",
+        "Choice of brass or black metal frame",
+        "Walnut wood back ",
+        "Hanging hardware included"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Finn Mirror",
+      "price": 436,
+      "sale": null,
+      "materials_colors": [13],
+      "orientation": null,
+      "size": null,
+      "type": "Mirrors",
+      "room": "Bedroom",
+      "rating": 5,
+      "no_rating": 54,
+      "sold": 386,
+      "quantity": 100,
+      "create_date": "2022-07-10",
+      "default_image": "Finn_Mirror_Walnut_1.jpg",
+      "product_images":{
+        "Walnut Veneer": ["Finn_Mirror_Walnut_1.jpg","Finn_Mirror_Walnut_2.jpg","Finn_Mirror_Walnut_3.jpg"]
+      },
+      "dimension_image": "Finn mirror dimensions.jpg",
+      "overview": "The nature of glass has the ability to transform small spaces into larger rooms, while the texture of natural wood creates a type of Scandinavian warmth. A beautiful piece designed for propping effortlessly against expansive walls, the Finn Mirror is both a practical object and decorative object of desire.",
+      "details": [
+        "Mirrored glass",
+        "Choice of ash wood or walnut veneer ",
+        "Leaning floor mirror, no hardware included",
+        "102 lbs"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Hudson Mirror",
+      "price": 749,
+      "sale": null,
+      "materials_colors": [9],
+      "orientation": null,
+      "size": null,
+      "type": "Mirrors",
+      "room": "Bedroom",
+      "rating": 4.5,
+      "no_rating": 2,
+      "sold": 13,
+      "quantity": 100,
+      "create_date": "2022-07-10",
+      "default_image": "Hudson-Mirror_Black-Marble_Brass-Frame_1.jpg",
+      "product_images":{
+        "Walnut Veneer": ["Hudson-Mirror_Black-Marble_Brass-Frame_1.jpg","Hudson-Mirror_Black-Marble_Brass-Frame_2.jpg","Hudson-Mirror_Black-Marble_Brass-Frame_3.jpg"]
+      },
+      "dimension_image": "Hudson-Mirror_Dimensions.png",
+      "overview": "Like a work of art, the Hudson is transformed into a symbol of beauty. Adorned with a delicate metal frame and alluring marble base, the Hudson Mirror is simple yet elegant. From your living room to the hallway, the Hudson illuminates any space.",
+      "details": [
+        "Mirrored glass",
+        "Choice of white or black marble",
+        "Brushed brass metal frame",
+        "Leaning floor mirror, no hardware included",
+        "This product will be shipped in a wooden crate, tools are recommended for unboxing"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Asha Rug - Rectangular",
+      "price": 2499,
+      "sale": null,
+      "materials_colors": [17, 16],
+      "orientation": null,
+      "size": [
+        {"name": "1.8*2.7m", "price": 0},
+        {"name": "2.7*3.7", "price": 1300}
+      ],
+      "type": "Rugs",
+      "room": "Decor",
+      "rating": 5,
+      "no_rating": 7,
+      "sold": 38,
+      "quantity": 100,
+      "create_date": "2022-07-10",
+      "default_image": "Asha_Rug_Rectangular_Cappadocia_Taupe_1.jpg",
+      "product_images":{
+        "Cappadocia Taupe": ["Asha_Rug_Rectangular_Cappadocia_Taupe_1.jpg","Asha_Rug_Rectangular_Cappadocia_Taupe_2.jpg","Asha_Rug_Rectangular_Cappadocia_Taupe_3.jpg","Asha_Rug_Rectangular_Cappadocia_Taupe_4.jpg","Asha_Rug_Rectangular_Cappadocia_Taupe_5.jpg"],
+        "Istanbul Pearl": ["Asha_Rectangular_Rug_Istanbul_Pearl_1.jpg","Asha_Rectangular_Rug_Istanbul_Pearl_2.jpg","Asha_Rectangular_Rug_Istanbul_Pearl_3.jpg","Asha_Rectangular_Rug_Istanbul_Pearl_4.jpg","Asha_Rectangular_Rug_Istanbul_Pearl_5.jpg"]
+      },
+      "dimension_image": "Asha_Rectangular_Dimensions.jpg",
+      "overview": "With its soft expression and subtle details, the Asha Rug evokes the supple feeling of walking on a cloud. Inspired by the skilled artisans from the Ushak region of Turkey, these hand-tufted rugs made of sumptuously plush viscose add elegance and warmth to spaces large and small alike.",
+      "details": [
+        "Hand-loomed",
+        "100% viscose ",
+        "Rug thickness 0.5"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sola Rug",
+      "price": 1199,
+      "sale": null,
+      "materials_colors": [17, 16],
+      "orientation": null,
+      "size": [
+        {"name": "1.8*2.7m", "price": 0},
+        {"name": "2.7*3.7", "price": 1300}
+      ],
+      "type": "Rugs",
+      "room": "Decor",
+      "rating": 0,
+      "no_rating": 0,
+      "sold": 3,
+      "quantity": 100,
+      "create_date": "2022-08-10",
+      "default_image": "Sola-Rug_Cappadocia-Taupe_1.jpg",
+      "product_images":{
+        "Cappadocia Taupe": ["Sola-Rug_Cappadocia-Taupe_1.jpg","Sola-Rug_Cappadocia-Taupe_2.jpg","Sola-Rug_Cappadocia-Taupe_3.jpg","Sola-Rug_Cappadocia-Taupe_4.jpg","Sola-Rug_Cappadocia-Taupe_5.jpg"],
+        "Istanbul Pearl": ["Sola-Rug_Istanbul-Pearl_1.jpg","Sola-Rug_Istanbul-Pearl_2.jpg","Sola-Rug_Istanbul-Pearl_3.jpg","Sola-Rug_Istanbul-Pearl_4.jpg","Sola-Rug_Istanbul-Pearl_5.jpg"]
+      },
+      "dimension_image": "Sola-Rug_Dimensions.png",
+      "overview": "Captivating, the Sola Rug will transport you to an atmosphere of refined luxury. Accentuated by the minimal embossed pattern design the Sola adds a touch of luxuriant charm and depth to any space.",
+      "details": [
+        "Hand-loomed",
+        "100% viscose ",
+        "Rug thickness 0.3"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Square Throw Pillow",
+      "price": 40,
+      "sale": null,
+      "materials_colors": [4, 5],
+      "orientation": null,
+      "size": null,
+      "type": "Pillows",
+      "room": "Decor",
+      "rating": 4.8,
+      "no_rating": 74,
+      "sold": 288,
+      "quantity": 100,
+      "create_date": "2022-08-10",
+      "default_image": "Pillow_Chatou-Boucle_Caviar.jpg",
+      "product_images":{
+        "Caviar": ["Pillow_Chatou-Boucle_Caviar.jpg"],
+        "Pearl": ["Pillow_Chatou-Boucle_Pearl.jpg"]
+      },
+      "dimension_image": "Square_Throw Pillow_Dimensions.png",
+      "overview": "Add character and coziness to any space with throw pillows in your choice of fabric. Filled with goose feathers for soft support.",
+      "details": [
+        "Goose feather filling",
+        "Removable cover"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Nova Pouf",
+      "price": 436,
+      "sale": null,
+      "materials_colors": [1, 18],
+      "orientation": null,
+      "size": null,
+      "type": "Pillows",
+      "room": "Decor",
+      "rating": 5,
+      "no_rating": 37,
+      "sold": 523,
+      "quantity": 100,
+      "create_date": "2022-08-10",
+      "default_image": "Nova_Pouf_ModernFelt_Alesund_1.jpg",
+      "product_images":{
+        "Alesund": ["Nova_Pouf_ModernFelt_Alesund_1.jpg","Nova_Pouf_ModernFelt_Alesund_2.jpg","Nova_Pouf_ModernFelt_Alesund_3.jpg","Nova_Pouf_ModernFelt_Alesund_4.jpg","Nova_Pouf_ModernFelt_Alesund_5.jpg"],
+        "Cobalt": ["Nova_Pouf_Plush-Velvet-Cobalt_1.jpg","Nova_Pouf_Plush-Velvet-Cobalt_2.jpg","Nova_Pouf_Plush-Velvet-Cobalt_3.jpg","Nova_Pouf_Plush-Velvet-Cobalt_4.jpg","Nova_Pouf_Plush-Velvet-Cobalt_5.jpg"]
+      },
+      "dimension_image": "Nova_Pouf_small_Dimensions.jpg",
+      "overview": "A complimentary piece to its larger counterpart, this size is raised slightly higher and kept narrower than our large version. The Nova Pouf acts as the perfect upholstered stool or cushioned side table. Softly padded for a comfortable seat and available in multiple fabric and color options, the Nova is the ideal accent piece to complete your space.",
+      "details": [
+        "Upholstered frame padded with polyurethane foam wrapped in polyester fiber",
+        "Kiln-dried hardwood frame",
+        "Two vertical seams",
+        "Four small plastic feet "
+      ]
+    }
+  ]
+}
+

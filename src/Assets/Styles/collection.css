@@ -1,0 +1,32 @@
+.collection__content {
+  position: relative;
+  min-height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("../Images/CollectionImage/collection1.png");
+}
+
+
+.collection__header {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  padding: 0.5em;
+  background-color: #000000aa;
+}
+
+.collection__title {
+  color: white;
+  font-size: 2rem;
+  /* margin-bottom: 0.5em; */
+}
+
+.collection__button {
+  margin: 0.5em;
+  font-size: 1rem;
+  background-color: white;
+  border: none;
+}

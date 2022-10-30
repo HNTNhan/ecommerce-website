@@ -1,0 +1,27 @@
+.order-summary {
+  text-align: center;
+  padding: 1em;
+}
+
+.order-summary__title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.order-summary__total {
+  display: flex;
+  justify-content: space-between;
+}
+
+.order-summary__small-text {
+  font-size: 0.625rem;
+}
+
+.order-summary__checkout-btn {
+  text-transform: uppercase;
+  background-color: #F06F4D;
+  border: none;
+  padding: 0.5em 3em;
+  color: white;
+  font-weight: 700;
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Living Room",
+      "subCategories": ["Lounge & Armchairs", "Sofas", "Coffee Tables", "TV Stands", "Side Tables"],
+      "description": "A space made for relaxing and bringing family closer together, the living room is the ultimate place to unwind. Discover the perfect sofa with ideal comfort and stunning design, and a complementing coffee table that meets your needs. For maximum comfort, relax in a mid-century lounge chair."
+    },
+    {
+      "id": 2,
+      "name": "Bedroom",
+      "subCategories": ["Beds", "Dressers", "Mirrors"],
+      "description": "Escape from the stress of daily life with peaceful modern bedroom furniture. Beds, nightstands and dressers will create a getaway inside of your own home, whether you choose to match them as a set or alone as statement pieces. Use these items as a stress-free way to create a space to gather your thoughts and dream your night away."
+    },
+    {
+      "id": 3,
+      "name": "Decor",
+      "subCategories": ["Rugs", "Pillows"],
+      "description": "Our curated collection of decor uses lighting, mirrors, planters, and other accents to complement standout pieces and places of interest. These accessories and our furniture work together to create a striking yet harmonious mix without overwhelming a space. Accents can also be functional ways to create storage, display plants, and in the case of mirrors, trick the eye to create larger spaces. Mix and match these pieces for an accessible way to create a luxurious impression in any space."
+    },
+    {
+      "id": 4,
+      "name": "Dinning & Kitchen",
+      "subCategories": [],
+      "description": "The dining room is a place where family can come together. From mid-century modern to contemporary, and everything in between, these pieces are designed with purpose so that functionality and quality reign supreme. Available in a range of sizes to fit in the smallest of apartments or the largest of homes."
+    },
+    {
+      "id": 5,
+      "name": "Office",
+      "subCategories": [],
+      "description": "The right work space can provide the proper foundation for endless productivity. Our collection of office desks and ergonomic chairs feature simple and clean designs for an uninterrupted work day, the way a work space should be. Browse through furniture designed for the home or commercial workplace."
+    },
+    {
+      "id": 6,
+      "name": "Out Door",
+      "subCategories": [],
+      "description": "Whether balcony, patio, or poolside, the right outdoor furniture takes your space from occasional use to your favorite place. Choose from our collection of comfortable living and functional dining to create your perfect setup for experiencing the great outdoors."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+@media (min-width: 700px) {
+  .product-in-cart {
+    width: 75%;
+  }
+
+  .order-summary {
+    width: 25%;
+  }
+}
+

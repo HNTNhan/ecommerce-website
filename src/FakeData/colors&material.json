@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Alesund",
+      "description": "A soft and durable fabric designed with incredible texture and the ideal color dyes for a cozy day in.\\A Please note that all colors will vary approximately 10 - 15% between dye lots.",
+      "imageName": "Alesund.jpg",
+      "price": 0
+    },
+    {
+      "id": 2,
+      "name": "Moonstone",
+      "description": "A luxurious velvet with a soft plush touch, this fabric is perfect pared down with minimalist hues or dressed up in this season.\\A Please note that all colors will vary approximately 10 - 15% between dye lots.",
+      "imageName": "Moonstone.jpg",
+      "price": 0
+    },
+    {
+      "id": 3,
+      "name": "Solstice",
+      "description": "A luxurious velvet with a soft plush touch and muted sheen, this fabric is perfect pared down with minimalist hues or dressed up in this season's trends. Our most revered velvet fabric colors, reimagined in the Plush Velvet 2022 collection.\\A Please note that all colors will vary approximately 10 - 15% between dye lots.",
+      "imageName": "Solstice.jpg",
+      "price": 0
+    },
+    {
+      "id": 4,
+      "name": "Pearl",
+      "description": "Chatou Bouclé reflects the tonal beauty of natural materials in its rich texture. Its composition of tightly looped fibers results in extraordinary softness, durability, and longevity.",
+      "imageName": "Pearl.jpg",
+      "price": 50
+    },
+    {
+      "id": 5,
+      "name": "Caviar",
+      "description": "Chatou Bouclé reflects the tonal beauty of natural materials in its rich texture. Its composition of tightly looped fibers results in extraordinary softness, durability, and longevity.",
+      "imageName": "Caviar.jpg",
+      "price": 50
+    },
+    {
+      "id": 6,
+      "name": "Black",
+      "description": "A luxurious velvet with a soft plush touch and muted sheen, this fabric is perfect pared down with minimalist hues or dressed up in this season's trends. Our most revered velvet fabric colors, reimagined in the Plush Velvet 2022 collection.\\A Please note that all colors will vary approximately 10 - 15% between dye lots.",
+      "imageName": "Black.jpg",
+      "price": 0
+    },
+    {
+      "id": 7,
+      "name": "Esme",
+      "description": "Evoking a sense of timeless elegance, the airy, woven composition of this material highlights the natural beauty and texture of the Leuven Linen.",
+      "imageName": "Esme.jpg",
+      "price": 150
+    },
+    {
+      "id": 8,
+      "name": "Glacier Grey",
+      "description": "A luxurious velvet with a soft plush touch and muted sheen, this fabric is perfect pared down with minimalist hues or dressed up in this season&#039;s trends. Our most revered velvet fabric colors, reimagined in the Plush Velvet 2022 collection.\\A Please note that all colors will vary approximately 10 - 15% between dye lots.",
+      "imageName": "Glacier_Grey.jpg",
+      "price": 0
+    },
+    {
+      "id": 9,
+      "name": "White Carrara Marble",
+      "description": "Every stone inherits unique veining and texture. Due to the natural material variation is to be expected.",
+      "imageName": "Carrara.jpg",
+      "price": 0
+    },
+    {
+      "id": 10,
+      "name": "Black Marble",
+      "description": "Every stone inherits unique veining and texture. Due to the natural material variation is to be expected.",
+      "imageName": "Marble_Black.jpg",
+      "price": 0
+    },
+    {
+      "id": 11,
+      "name": "Slate Concrete",
+      "description": "Glass Fiber Concrete",
+      "imageName": "Slate_Concrete.jpg",
+      "price": 0
+    },
+    {
+      "id": 12,
+      "name": "Black Concrete",
+      "description": "",
+      "imageName": "Black_Concrete.jpg",
+      "price": 0
+    },
+    {
+      "id": 13,
+      "name": "Walnut Veneer",
+      "description": "Sumptuous veneers are selected from top grade lumber. This veneer preserves the characteristic wood grains beneath a long-lasting final finish.",
+      "imageName": "Walnut_Veneer.jpg",
+      "price": 0
+    },
+    {
+      "id": 14,
+      "name": "Black Metal",
+      "description": "",
+      "imageName": "Metal_Black.jpg",
+      "price": 0
+    },
+    {
+      "id": 15,
+      "name": "Brass",
+      "description": "",
+      "imageName": "Brass.jpg",
+      "price": 62
+    },
+    {
+      "id": 16,
+      "name": "Istanbul Pearl",
+      "description": "Soft to the touch, buttery feel, and subtle yet lively sheen.",
+      "imageName": "Istanbul_Pearl.jpg",
+      "price": 0
+    },
+    {
+      "id": 17,
+      "name": "Cappadocia Taupe",
+      "description": "Soft to the touch, buttery feel, and subtle yet lively sheen.",
+      "imageName": "Cappadoccia_Taupe.jpg",
+      "price": 0
+    },
+    {
+      "id": 18,
+      "name": "Cobalt",
+      "description": "A luxurious velvet with a soft plush touch, this fabric is perfect pared down with minimalist hues or dressed up in this season's trends.\\A Please note that all colors will vary approximately 10 - 15% between dye lots.",
+      "imageName": "Cobalt.jpg",
+      "price": 0
+    }
+  ]
+}

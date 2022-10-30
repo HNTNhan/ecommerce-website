@@ -1,0 +1,16 @@
+@media (min-width: 700px) {
+  .category-content .row {
+    gap: 1em
+  }
+
+  .category-content .category-filter {
+    width: 25%;
+    border-right: 1px solid #d1d5db;
+
+  }
+
+  .category-content .product-list {
+    width: 75%;
+  }
+
+}

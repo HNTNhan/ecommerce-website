@@ -1,0 +1,45 @@
+.quantity-input {
+  display: flex;
+  border: 1px solid #d1d5db;
+  width: fit-content;
+}
+
+.quantity-input button,
+.quantity-input input {
+  background-color: transparent;
+  border: none;
+}
+
+.quantity-input button {
+  height: 2.25rem;
+  width: 2.5rem;
+  cursor: pointer;
+  border: 1px solid #d1d5db;
+  margin: 0;
+  padding: 0;
+}
+
+.quantity-input.small button {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.quantity-input.small button svg {
+  height: 0.875rem;
+  width: 0.875rem;
+}
+
+.quantity-input input {
+  display: inline-block;
+  width: 5rem;
+  text-align: center;
+  font-size: 0.875rem;
+}
+
+.quantity-input.small input {
+  width: 3rem;
+}
+
+.quantity-input input:focus {
+  outline: none;
+}

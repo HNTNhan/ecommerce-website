@@ -1,0 +1,18 @@
+.category-descripion {
+  margin-top: 1em;
+}
+
+.category-descripion .container {
+  background-color: #F5F5FA;
+  text-align: center;
+  max-width: 60ch;
+}
+
+.category-descripion__title {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.category-descripion__text {
+  font-size: 0.875rem;
+}

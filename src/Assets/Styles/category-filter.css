@@ -1,0 +1,133 @@
+.category-filter {
+  padding: 0.5em;
+  position: relative;
+}
+
+.category-filter__item {
+  border-bottom: 1px solid black;
+  /* border-top: 1px solid black; */
+}
+
+.category-filter header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 0.5em 0; */
+}
+
+.category-filter__title {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.category-filter__btn {
+  font-size: 1.5rem;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: transform 500ms;
+}
+
+.category-filter__btn.selected {
+  transform: rotateZ(45deg);
+}
+
+.category-filter__material-and-color-list {
+  display: flex;
+  align-items: center;
+  gap: 0.25em;
+  flex-wrap: wrap;
+}
+
+.material-color-img-btn {
+  width: 1.5rem;
+  height: 1.5rem;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.material-color-img-btn img {
+  border-radius: 50%;
+}
+
+.material-color-item {
+  display: flex;
+  align-items: center;
+  border: 2px solid transparent;
+  border-radius: 50%;
+  padding: 2px;
+}
+
+.material-color-item:hover::before {
+  position: absolute;
+  z-index: 1;
+  padding: 0.5em;
+  width: 20ch;
+  transform: translate(1.5rem, 50%);
+  background-color: #000;
+  background-color: rgba(51, 51, 51, 0.9);
+  color: #fff;
+  content: attr(tooltip);
+  white-space: pre-wrap;
+  text-align: left;
+  font-size: 0.875rem;
+  line-height: 1.2;
+}
+
+.material-color-item.selected {
+  border: 2px solid black;
+}
+
+.category-filter__list {
+  list-style: none;
+  margin: 1em 0;
+  padding-left: 1em;
+  /* position: absolute; */
+  height: auto;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 1s ;
+}
+
+.category-filter__list.show-filter {
+  /* position: relative; */
+  max-height: 600px;
+}
+
+.category-filter__list li {
+  margin-bottom: 0.5em;
+}
+
+.category-filter__room-list a {
+  color: black;
+}
+
+.category-filter__room-list li a:hover {
+  color: #6b7280;
+  border-bottom: 1px solid #6b7280;
+}
+
+.category-filter__room-list li.selected a {
+  border-bottom: 1px solid black;
+  font-weight: 700;
+  color: black;
+}
+
+.category-filter__type-list__item {
+  display: flex;
+  align-items: center;
+  gap: 0.25em;
+}
+
+.category-filter__type-list__item label,
+.category-filter__type-list__item input {
+  cursor: pointer;
+  margin: 0;
+}
+
+/* .category-filter__type-list__item:hover,
+.category-filter__type-list__item:focus {
+  cursor: pointer;
+} */
