@@ -5,6 +5,7 @@ const initialState = {
   products: [],
   topSellers: [],
   newProducts: [],
+  relatedProducts: [],
   filterProducts: [],
   totalFilterProduct: 0,
   page: 1,
@@ -20,6 +21,9 @@ export const productSlice = createSlice({
     },
     setNewProducts: (state, action) => {
       state.newProducts = action.payload;
+    },
+    setRelatedProducts: (state, action) => {
+      state.relatedProducts = action.payload;
     },
     setFilterProducts: (state, action) => {
       state.filterProducts = action.payload.data;
@@ -41,6 +45,7 @@ export const productSlice = createSlice({
 export const {
   setTopSellers,
   setNewProducts,
+  setRelatedProducts,
   setFilterProducts,
   setPage,
   setCurrProduct,

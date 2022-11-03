@@ -5,15 +5,13 @@ import QuantityInputGroup from "../Components/QuantityInputGroup";
 import useProductQuantity from "../Hooks/useProductQuantiy";
 
 export default function ProductGeneralDetail({ product }) {
-  const [materialsColors, setMaterialsColors] = useState(product.materials_colors[0].name);
+  const [materialsColors, setMaterialsColors] = useState(product.materials_colors[0]?.name);
   const [largeThumbnail, setLargeThumbnail] = useState(
     materialsColors ? product.product_images[materialsColors][0] : product.product_images[""][0],
   );
   const [orientation, setOrientation] = useState(product.orientation && product.orientation[0]);
 
   const [quantity, quantityElement] = useProductQuantity();
-
-  console.log(product, materialsColors, largeThumbnail, quantity);
 
   const subImageElements = product?.product_images[materialsColors ?? ""]?.map((productImage) => {
     return (

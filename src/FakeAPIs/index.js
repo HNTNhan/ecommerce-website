@@ -19,14 +19,35 @@ function joinProductsWithMaterialAndColor(products, materialsColors) {
 }
 
 const getProductByName = (name) => {
+  const product = products.data.find(
+    (product) => convertToSlug(product.name) === convertToSlug(name),
+  );
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      resolve(JSON.stringify(joinProductsWithMaterialAndColor([product], materialsColors)[0]));
+    }, 300);
+  });
+};
+
+const getRelatedProduct = (name) => {
+  const rootProduct = products.data.find(
+    (product) => convertToSlug(product.name) === convertToSlug(name),
+  );
+
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve(
         JSON.stringify(
           joinProductsWithMaterialAndColor(
-            [products.data.find((product) => convertToSlug(product.name) === convertToSlug(name))],
+            products.data
+              .filter(
+                (product) =>
+                  product.id !== rootProduct.id &&
+                  (product.type === rootProduct.type || product.room === rootProduct.room),
+              )
+              .slice(0, 10),
             materialsColors,
-          )[0],
+          ),
         ),
       );
     }, 300);
@@ -177,6 +198,7 @@ const getAllCategories = () => {
 export {
   getProductByName,
   getAllProducts,
+  getRelatedProduct,
   getProductsByFilterAndSorted,
   getNewProducts,
   getTopSellers,

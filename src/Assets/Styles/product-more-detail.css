@@ -24,12 +24,13 @@
 
 .product-more-detail__dimensions-img {
   position: relative;
+  width: 100%;
+  height: 100%;
 }
 
 .product-more-detail__dimensions-img img {
   position: absolute;
   object-fit: cover;
-  position: relative;
 }
 
 .product-more-detail__dimensions a {

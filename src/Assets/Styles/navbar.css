@@ -81,6 +81,7 @@
 .nav__cart {
   position: relative;
   cursor: pointer;
+  color: black;
 }
 
 .nav__cart > svg {
