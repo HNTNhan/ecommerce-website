@@ -22,7 +22,6 @@ function Home() {
   const newProducts = useSelector((state) => state.product.newProducts);
   const topSellers = useSelector((state) => state.product.topSellers);
   const categories = useSelector((state) => state.category.categories);
-
   const dispatch = useDispatch();
 
   useEffect(() => {

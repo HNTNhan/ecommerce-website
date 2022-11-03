@@ -1,17 +1,19 @@
 import { createSlice } from "@reduxjs/toolkit";
 
+const initialState = {
+  currProduct: null,
+  products: [],
+  topSellers: [],
+  newProducts: [],
+  filterProducts: [],
+  totalFilterProduct: 0,
+  page: 1,
+  numProduct: 5,
+};
+
 export const productSlice = createSlice({
   name: "product",
-  initialState: {
-    currProduct: null,
-    products: [],
-    topSellers: [],
-    newProducts: [],
-    filterProducts: [],
-    totalFilterProduct: 0,
-    page: 1,
-    numProduct: 5,
-  },
+  initialState,
   reducers: {
     setTopSellers: (state, action) => {
       state.topSellers = action.payload;
@@ -27,13 +29,22 @@ export const productSlice = createSlice({
     setPage: (state, action) => {
       state.page = action.payload;
     },
+    resetCurrProduct: (state, action) => {
+      state.currProduct = initialState.currProduct;
+    },
     setCurrProduct: (state, action) => {
       state.currProduct = action.payload;
     },
   },
 });
 
-export const { setTopSellers, setNewProducts, setFilterProducts, setPage, setCurrProduct } =
-  productSlice.actions;
+export const {
+  setTopSellers,
+  setNewProducts,
+  setFilterProducts,
+  setPage,
+  setCurrProduct,
+  resetCurrProduct,
+} = productSlice.actions;
 
 export default productSlice.reducer;

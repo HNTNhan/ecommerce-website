@@ -3,7 +3,7 @@ import "../Assets/Styles/quantity-input-group.css";
 export default function QuantityInputGroup(props) {
   return (
     <div className={`quantity-input ${props.small && "small"}`}>
-      <button>
+      <button onClick={() => props.handleQuantityChange(0, -1)}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
@@ -18,8 +18,12 @@ export default function QuantityInputGroup(props) {
           />
         </svg>
       </button>
-      <input type="number" defaultValue={0} />
-      <button>
+      <input
+        type="number"
+        value={props.quantity}
+        onChange={(event) => props.handleQuantityChange(1, event.target.value)}
+      />
+      <button onClick={() => props.handleQuantityChange(0, 1)}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"

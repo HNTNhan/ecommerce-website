@@ -22,21 +22,31 @@
   min-height: 400px;
 }
 
-.product-more-detail__dimensions img {
-  position: absolute;
-  object-fit: cover;
+.product-more-detail__dimensions-img {
+  position: relative;
 }
 
-.product-more-detail__dimensions button {
+.product-more-detail__dimensions-img img {
+  position: absolute;
+  object-fit: cover;
+  position: relative;
+}
+
+.product-more-detail__dimensions a {
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   background-color: white;
+  color: black;
   border: 1px solid black;
   padding: 0.5em 1.5em;
   box-shadow: 2px 2px 2px 1px #9ca3af;
   cursor: pointer;
+}
+
+.product-more-detail__dimensions a:hover {
+  background-color: #d1d5db;
 }
 
 @media (min-width: 700px) {

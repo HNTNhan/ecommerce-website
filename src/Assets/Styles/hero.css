@@ -56,6 +56,10 @@
 }
 
 @media (min-width: 700px) {
+  .hero__content {
+    min-height: 80vh;
+  }
+
   .hero__title,
   .hero__button {
     max-width: 70%;

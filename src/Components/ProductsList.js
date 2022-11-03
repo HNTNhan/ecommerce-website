@@ -72,7 +72,9 @@ export default function ProductList(props) {
           </svg>
         </div>
       </div>
-      <div className="product-list__content">{createProductCardElements()}</div>
+      <div className="product-list__content">
+        {props.filterProducts && createProductCardElements()}
+      </div>
       <Pagination
         page={props.page}
         total={props.totalFilterProduct}

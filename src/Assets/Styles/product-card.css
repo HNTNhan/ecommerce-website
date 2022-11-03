@@ -8,6 +8,7 @@
 .product-card__title, .product-card__price, .product-card__sale {
   font-size: 0.875rem;
   margin: 0.75em 0;
+  color: black;
 }
 
 .product-card__sale {

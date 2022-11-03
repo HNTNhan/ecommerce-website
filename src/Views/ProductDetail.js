@@ -9,7 +9,7 @@ import { getProductByName } from "../FakeAPIs";
 import ProductGeneralDetail from "../Components/ProductGeneralDetail";
 import ProductMoreDetail from "../Components/ProductMoreDetail";
 import ProductSlide from "../Components/ProductSlide";
-import { setCurrProduct } from "../Services/Reducers/productReducer";
+import { resetCurrProduct, setCurrProduct } from "../Services/Reducers/productReducer";
 
 export default function ProductDetail(props) {
   const product = useSelector((state) => state.product.currProduct);
@@ -17,16 +17,19 @@ export default function ProductDetail(props) {
   const { productName } = useParams();
 
   useEffect(() => {
+    if (product) dispatch(resetCurrProduct());
     getProductByName(productName)
       .then((res) => JSON.parse(res))
       .then((data) => dispatch(setCurrProduct(data)));
   }, []);
 
   return (
-    <>
-      <ProductGeneralDetail product={product} />
-      <ProductMoreDetail product={product} />
-      {/* <ProductSlide /> */}
-    </>
+    product && (
+      <>
+        <ProductGeneralDetail product={product} />
+        <ProductMoreDetail product={product} />
+        {/* <ProductSlide /> */}
+      </>
+    )
   );
 }

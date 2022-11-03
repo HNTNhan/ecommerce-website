@@ -120,8 +120,9 @@ const getProductsByFilterAndSorted = (filter, sort, page = 1, numProduct = 15) =
 const getNewProducts = () => {
   return new Promise((resolve) => {
     setTimeout(() => {
-      const newProductsArr = products.data.sort((product1, product2) => {
-        return new Date(product1.createDate).getTime() - new Date(product2.createDate).getTime();
+      const newProductsArr = JSON.parse(JSON.stringify(products.data));
+      newProductsArr.sort((product1, product2) => {
+        return new Date(product1.create_date).getTime() - new Date(product2.create_date).getTime();
       });
 
       resolve(
@@ -136,13 +137,14 @@ const getNewProducts = () => {
 const getTopSellers = () => {
   return new Promise((resolve) => {
     setTimeout(() => {
-      const topSallersArr = products.data.sort((product1, product2) => {
+      const topSellersArr = JSON.parse(JSON.stringify(products.data));
+      topSellersArr.sort((product1, product2) => {
         return product2.sold - product1.sold;
       });
 
       resolve(
         JSON.stringify(
-          joinProductsWithMaterialAndColor(topSallersArr.slice(0, 10), materialsColors),
+          joinProductsWithMaterialAndColor(topSellersArr.slice(0, 10), materialsColors),
         ),
       );
     }, 300);

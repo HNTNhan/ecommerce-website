@@ -41,7 +41,7 @@ export default function ProductInCart(props) {
                 <h3 className="product-in-cart__product-title">Milo Sleeper Sectional</h3>
                 <div className="product-in-cart__product-orientation">
                   <img
-                    src={require("../Assets/Images/ProductOrientation/left.jpg")}
+                    src={require("../Assets/Images/ProductOrientation/Left-Hand-Facing.jpg")}
                     alt="product orientation left"
                   />
                   <p>Left-Hand-Facing</p>
